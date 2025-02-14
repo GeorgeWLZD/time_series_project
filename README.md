@@ -53,10 +53,10 @@ We can see in the plot below the current budget allocates **85% on flyers** and 
 
 - Demand is projected to decrease, with some peaks due to seasonal trends. To meet demand efficiently, it's necessary to **optimize inventory and staffing levels**, ensuring sufficient supply without overstocking.
 
-- Sales growth is influenced by marketing initiatives and mainly by its past values. AdWords contributes a little bit less than flyers to total sales. Nonetheless, a strategic balance between these elements is essential for sustainable growth.
+- Sales growth is influenced by marketing initiatives and mainly by its past values. **AdWords contributes a little bit** less than flyers to total sales. Nonetheless, a strategic balance between these elements is essential for sustainable growth.
 
-- The advertising activities can gain sinergy if we invest on flyers for immediate effects and AdWords for some weeks ahead effects.
+- The advertising activities can **gain sinergy** if we invest on flyers for immediate effects and AdWords for some weeks ahead effects.
 
-- To maximize ROI, allocate 23% of the budget to AdWords for sustained engagement and 77% to flyers for immediate sales. Continuous A/B testing and performance analysis should guide budget refinements, ensuring optimal efficiency.
+- To maximize ROI, allocate **23% of the budget to AdWords** for sustained engagement and **77% to flyers** for immediate sales. It's important to perform **A/B testing** and continuous performance analysis should guide budget refinements, ensuring optimal efficiency.
 
 
