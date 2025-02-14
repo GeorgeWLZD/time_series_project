@@ -17,10 +17,11 @@ We have the historical weekly sales and marketing expenditure on flyer advertisi
 
 ## 3. Statistical Analysis
 
-O
+The first step was the **exploration** of the change of variables over time, so we can have a better understanding of what we are dealing with:
 
-![image alt]()
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/babef8350c5bbdc92384384b909a2d3ef352a8a7/img/exploration.JPG)
 
+asd
 
 ## 4. Business Recommendation
 
