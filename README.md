@@ -45,6 +45,10 @@ For this question the appropriate tool is the **Impulse Response Function (IRF)*
 
 - Q4: How should ABC allocate marketing budget between AdWords and flyers to get the best results?
 
+We can see in the plot below the current budget allocates **85% on flyers** and **15% on Adwords**. Based on the IRF information we can estimate the **optimal allocation**, which is that the firm should actually spend less of its marketing budget on flyer advertising (77%, instead of 85%), and more on AdWords advertising (23% instead of 15%). Contrasting the optimal and actual budget allocation of the firm, it is quite obvious that currently, the firm is **underestimating the power of online marketing** through AdWords and overemphasizing the importance of offline flyers.
+
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/9f0687f061fc71e1a0731257f6a2cf1b6fccb25d/img/budget.JPG)
+
 ## 4. Business Recommendation
 
 T
