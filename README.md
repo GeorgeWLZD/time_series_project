@@ -9,13 +9,13 @@ ABC company operates in the telecom industry in an emerging market. The company 
 - Q3: To what extent do AdWords and flyers **impact sales** in the short versus long run?
 - Q4: How should ABC allocate **marketing budget** between AdWords and flyers to get the best results?
 
-## 2. Experiment Design
+## 2. Data Structure
 
-A
+We have the historical weekly sales and marketing expenditure on flyer advertising and Google AdWords advertising spend over a **time span of 122 weeks**. Here we have a **glimpse of the first 10 rows** of the dataset:
 
-![image alt]()
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/ac35cedcf55b8042ab71b85832639cd61c4125ed/img/data.JPG)
 
-## 3. Statistical Results
+## 3. Statistical Analysis
 
 O
 
