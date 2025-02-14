@@ -38,6 +38,11 @@ To determine the drivers I develop a VAR model and evaluate the **Forecast Error
 ![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/bc75a1537d8aa19ed4de7314c27c4b6138b65bc3/img/fevd.JPG)
 
 - Q3: To what extent do AdWords and flyers impact sales in the short versus long run?
+
+For this question the appropriate tool is the **Impulse Response Function (IRF)**. In the plot below we see that increase **flyer (LFlyer)** spending can cause an immediate boost of sales; in contrast, it takes longer time for spending on **AdWords (DLAdwords)** to have positive impact on sales. Moreover, we obsere that these impacts all decay fast and gets close to zero over 6 weeks approximately.
+
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/804b43e57448e4f6ff45519d2951511c96408d58/img/irf.JPG)
+
 - Q4: How should ABC allocate marketing budget between AdWords and flyers to get the best results?
 
 ## 4. Business Recommendation
