@@ -47,11 +47,16 @@ For this question the appropriate tool is the **Impulse Response Function (IRF)*
 
 We can see in the plot below the current budget allocates **85% on flyers** and **15% on Adwords**. Based on the IRF information we can estimate the **optimal allocation**, which is that the firm should actually spend less of its marketing budget on flyer advertising (77%, instead of 85%), and more on AdWords advertising (23% instead of 15%). Contrasting the optimal and actual budget allocation of the firm, it is quite obvious that currently, the firm is **underestimating the power of online marketing** through AdWords and overemphasizing the importance of offline flyers.
 
-![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/9f0687f061fc71e1a0731257f6a2cf1b6fccb25d/img/budget.JPG)
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/5f545ffc7d1e44e9930c80d1cb3d1c9bc7831cfa/img/budget.JPG)
 
-## 4. Business Recommendation
+## 4. Business Recommendations
 
-T
+- Demand is projected to decrease, with some peaks due to seasonal trends. To meet demand efficiently, it's necessary to **optimize inventory and staffing levels**, ensuring sufficient supply without overstocking.
 
-![image alt]()
+- Sales growth is influenced by marketing initiatives and mainly by its past values. AdWords contributes a little bit less than flyers to total sales. Nonetheless, a strategic balance between these elements is essential for sustainable growth.
+
+- The advertising activities can gain sinergy if we invest on flyers for immediate effects and AdWords for some weeks ahead effects.
+
+- To maximize ROI, allocate 23% of the budget to AdWords for sustained engagement and 77% to flyers for immediate sales. Continuous A/B testing and performance analysis should guide budget refinements, ensuring optimal efficiency.
+
 
