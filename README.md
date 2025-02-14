@@ -27,11 +27,16 @@ To answer this question I develop 2 models, first a linear regression as base mo
 
 ![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/5ac648eda21bce679cd2aa7ccd641517a7af416a/img/comparison.png)
 
-The final predictions for **12 weeks ahead** are the following:
+The final predictions for **12 weeks ahead** are highlighted in blue, and are the following:
 
 ![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/8d777768f3fe0d0a5f82808e4208ba1f93b5f4f5/img/arima.png)
 
 - Q2: What are the drivers of sales in the long run? What is the contribution of each marketing action to sales?
+
+To determine the drivers I develop a VAR model and evaluate the **Forecast Error Variance Decomposition (FEVD)**. We see that for **sales (LSales)** the lagged values of it have the highest contribution to determine the future sales, and the **offline actions** seems to play a more important role than the **online ads**.
+
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/bc75a1537d8aa19ed4de7314c27c4b6138b65bc3/img/fevd.JPG)
+
 - Q3: To what extent do AdWords and flyers impact sales in the short versus long run?
 - Q4: How should ABC allocate marketing budget between AdWords and flyers to get the best results?
 
