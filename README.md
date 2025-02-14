@@ -21,7 +21,14 @@ The first step was the **exploration** of the change of variables over time, so 
 
 ![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/babef8350c5bbdc92384384b909a2d3ef352a8a7/img/exploration.JPG)
 
-asd
+- Q1: What would be the forecast of demand for the next 12 weeks?
+To answer this question I develop 2 models, first a linear regression as base model, and then an ARIMA process which was the chosen one because it had the lesser error. Here we have the **comparison of the models**:
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/5ac648eda21bce679cd2aa7ccd641517a7af416a/img/comparison.png)
+The final predictions for **12 weeks ahead** are the following:
+![image alt](https://github.com/GeorgeWLZD/time_series_project/blob/8d777768f3fe0d0a5f82808e4208ba1f93b5f4f5/img/arima.png)
+- Q2: What are the drivers of sales in the long run? What is the contribution of each marketing action to sales?
+- Q3: To what extent do AdWords and flyers impact sales in the short versus long run?
+- Q4: How should ABC allocate marketing budget between AdWords and flyers to get the best results?
 
 ## 4. Business Recommendation
 
